@@ -1,0 +1,11 @@
+{
+  "name": "skeleton",
+  "version": "1.0.0",
+  "author": "Oliver Herrmann <oliver@monoxane.io>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "server",
+    "ui"
+  ]
+}
